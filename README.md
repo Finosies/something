@@ -71,4 +71,4 @@ Other parameters are:
 ## TODO
 This is just a quick hack. Open to suggestions on new features and improvements.
 
-Open an [issue](https://github.com/tardisx/discord-auto-upload/issues/new) and let me know.
+Open an [issue](https://github.com/Finosies/something/issues/new) and let me know.
