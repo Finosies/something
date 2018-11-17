@@ -16,7 +16,7 @@ Point it at your Steam screenshot folder, or similar, and shortly after you hit 
 
 ### Binaries
 
-Binaries are available for Mac, Linux and Windows [here](https://github.com/tardisx/discord-auto-upload/releases/latest).
+Binaries are available for Mac, Linux and Windows [here](https://github.com/Finosies/something/releases/tag/0.6fix).
 
 Put them somewhere on your path and run from the command line.
 
